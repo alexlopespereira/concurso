@@ -1,0 +1,183 @@
+LÍNGUA|PORTUGUESA:
+1|Compreensão e interpretação de textos de gêneros variados.
+2|Reconhecimento de tipos e gêneros textuais.
+3|Domínio da ortografia oficial.
+4|Domínio dos mecanismos de coesão textual.
+4.1|Emprego de elementos de referenciação, substituição e repetição, de conectores e de outros elementos de sequenciação textual.
+4.2|Emprego de tempos e modos verbais.
+5|Domínio da estrutura morfossintática do período.
+5.1|Emprego das classes de palavras.
+5.2|Relações de coordenação entre orações e entre termos da oração.
+5.3|Relações de subordinação entre orações e entre termos da oração.
+5.4|Emprego dos sinais de pontuação.
+5.5|Concordância verbal e nominal.
+5.6|Regência verbal e nominal.
+5.7|Emprego do sinal indicativo de crase.
+5.8|Colocação dos pronomes átonos.
+6|Reescrita de frases e parágrafos do texto.
+6.1|Significação das palavras.
+6.2|Substituição de palavras ou de trechos de texto.
+6.3|Reorganização da
+20|estrutura de orações e de períodos do texto.
+6.4|Reescrita de textos de diferentes gêneros e níveis de formalidade.
+7|Correspondência oficial (conforme Manual de Redação da Presidência da República).
+7.1|Aspectos gerais da redação oficial.
+7.2|Finalidade dos expedientes oficiais.
+7.3|Adequação da linguagem ao tipo de documento.
+7.4|Adequação do formato do texto ao gênero.
+
+NOÇÕES DE INFORMÁTICA:
+1|Noções de sistema operacional (ambientes Linux e Windows).
+2|Edição de textos, planilhas e apresentações (ambientes Microsoft Office e BrOffice).
+3|Redes de computadores.
+3.1|Conceitos básicos, ferramentas, aplicativos e procedimentos de Internet e intranet.
+3.2|Programas de navegação (Microsoft Internet Explorer, Mozilla Firefox e Google Chrome).
+3.3|Programas de correio eletrônico (Outlook Express e Mozilla Thunderbird).
+3.4|Sítios de busca e pesquisa na Internet.
+3.5|Grupos de discussão.
+3.6|Redes sociais.
+3.7|Computação na nuvem (cloud computing).
+4|Conceitos de organização e de gerenciamento de informações, arquivos, pastas e programas.
+5|Segurança da informação.
+5.1|Procedimentos de segurança.
+5.2|Noções de vírus, worms e pragas virtuais.
+5.3|Aplicativos para segurança (antivírus, firewall, anti‐spyware etc.).
+5.4|Procedimentos de backup.
+5.5|Armazenamento de dados na nuvem (cloud storage).
+
+RACIOCÍNIO|LÓGICO:
+1| Estruturas lógicas.
+2|Lógica de argumentação: analogias, inferências, deduções e conclusões.
+3|Lógica sentencial (ou proposicional).
+3.1|Proposições simples e compostas.
+3.2|Tabelas‐verdade.
+3.3|Equivalências.
+3.4|Leis de De Morgan.
+3.5|Diagramas lógicos.4 Lógica de primeira ordem.
+5|Princípios de contagem e probabilidade.
+6|Operações com conjuntos.
+7|Raciocínio lógico envolvendo problemas aritméticos, geométricos e matriciais.
+
+ÉTICA|NO SERVIÇO PÚBLICO: 
+1|Ética e moral.
+2|Ética, princípios e valores.
+3|Ética e democracia: exercício da cidadania.
+4|Ética e função pública.
+5|Ética no Setor Público.
+5.1|Decreto nº 1.171/ 1994 (Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal).
+5.2|Lei nº 8.112/1990 e alterações: regime disciplinar (deveres e proibições, acumulação, responsabilidades, penalidades) 5.3 Lei nº 8.429/1992: disposições gerais, atos de improbidade administrativa.
+
+ATUALIDADES|(SOMENTE PARA A PROVA DISCURSIVA):
+1|Tópicos relevantes e atuais de diversas áreas, tais como segurança, transportes, política, economia, sociedade, educação, saúde, cultura,tecnologia, energia, relações internacionais, desenvolvimento sustentável, ecologia e suas inter‐relações.
+
+NOÇÕES DE ADMINISTRAÇÃO:
+1|Gestão de pessoas.
+1.1|Equilíbrio organizacional.
+1.2|Objetivos, desafios e características da gestão de pessoas.
+1.3|Comportamento organizacional: relações indivíduo/organização, motivação, liderança, desempenho.
+2|Gestão da qualidade e modelo de excelência gerencial.
+2.1|Principais teóricos e suas contribuições para a gestão da qualidade.
+2.2|Ciclo PDCA.
+2.3|Ferramentas de gestão da qualidade.
+3|Noções de gestão de processos.
+3.1|Técnicas de mapeamento, análise e melhoria de processos.
+4|Noções de administração de recursos materiais.
+4.1|Classificação de materiais.
+4.1.1|Atributos para classificação de materiais.
+4.1.2|Tipos de classificação.
+4.1.3|Metodologia de cálculo da curva ABC.
+4.2|Gestão de estoques.
+4.3|Recebimento e armazenagem.
+4.3.1|Entrada.
+4.3.2|Conferência.
+4.3.3|Objetivos da armazenagem.
+4.3.4|Critérios e técnicas de armazenagem.
+4.3.5|Arranjo físico (leiaute).
+4.4|Distribuição de materiais.
+4.4.1|Características das modalidades de transporte.
+4.4.2|Estrutura para distribuição.
+4.5|Gestão patrimonial.
+4.5.1|Tombamento de bens.
+4.5.2|Controle de bens.
+4.5.3|Inventário.
+4.5.4|Alienação de bens.
+4.5.5|Alterações e baixa de bens.
+5|Noções de arquivologia.
+5.1|Arquivística: princípios e conceitos.
+5.2|Legislação arquivística.
+5.3|Gestão de documentos.
+5.3.1|Protocolo: recebimento, registro, distribuição, tramitação e expedição de documentos.
+5.3.2|Classificação de documentos de arquivo.
+5.3.3|Arquivamento e ordenação de documentos de arquivo.
+5.3.4|Tabela de temporalidade de documentos de arquivo.
+5.4|Acondicionamento e armazenamento de documentos de arquivo.
+5.5|Preservação e conservação de documentos de arquivo.
+5.6|Triagem e eliminação de documentos e processos, 5.7 Digitalização de
+21|documentos.
+5.8|Controle de qualidade da digitalização.
+6|Acesso à Informação: Lei nº 12.527/2011; Decreto nº 7.724/2011.
+
+NOÇÕES DE DIREITO CONSTITUCIONAL:
+1 |Constituição.
+1.1|Conceito, classificações, princípios fundamentais.
+2|Direitos e garantias fundamentais.
+2.1|Direitos e deveres individuais e coletivos, direitos sociais, nacionalidade, cidadania, direitos políticos, partidos políticos.
+3|Organização político‐administrativa.
+3.1|União, estados, Distrito Federal, municípios e territórios.
+4|Administração pública.
+4.1|Disposições gerais, servidores públicos.
+5|Organização dos Poderes.
+5.1|Fiscalização contábil e financeira (art. 70|a 75) e do Poder Executivo (art. 76|ao 88).
+6|Segurança Pública (Capítulo III ART. 144).
+7|Tributação e Orçamento (art. 145|ao 169).
+8|Saúde (art. 196|a 200).
+
+NOÇÕES DE DIREITO ADMINISTRATIVO:
+1|Noções de organização administrativa.
+1.1|Centralização, descentralização, concentração e desconcentração.
+1.2|Administração direta e indireta.
+1.3|Autarquias, fundações, empresas públicas e sociedades de economia mista.
+2|Ato administrativo.
+2.1|Conceito, requisitos, atributos, classificação e espécies.
+3|Agentes públicos.
+3.1|Legislação pertinente.
+3.1.1|Lei nº 8.112/1990.
+3.1.2|Disposições constitucionais aplicáveis.
+3.2|Disposições doutrinárias: conceito; espécies; cargo, emprego e função pública.
+4|Poderes administrativos.
+4.1|Hierárquico, disciplinar, regulamentar e de polícia.
+4.2|Uso e abuso do poder.
+5|Licitação.
+5.1|Princípios.
+5.2|Contratação direta: dispensa e inexigibilidade.
+5.3|Modalidades.
+5.4|Tipos.
+5.5|Procedimento.
+6|Contrato Administrativo.
+6.1|Peculiaridades do contrato administrativo.
+6.2|Aspectos formais do contrato administrativo.
+6.3|Execução e inexecução do contrato administrativo 7 Controle da administração pública.
+7.1|Controle exercido pela administração pública.
+7.2|Controle judicial.
+7.3|Controle legislativo.
+8|Responsabilidade civil do Estado.
+8.1|Responsabilidade civil do Estado no direito brasileiro.
+8.1.1|Responsabilidade por ato comissivo do Estado.
+8.1.2|Responsabilidade por omissão do Estado.
+8.2|Requisitos para a demonstração da responsabilidade do Estado.
+8.3|Causas excludentes e atenuantes da responsabilidade do Estado.
+9|Regime jurídico‐administrativo.
+9.1|Conceito.
+9.2|Princípios expressos e implícitos da administração pública.
+10|Lei nº 9.986/2000 e alterações posteriores (Gestão de Recursos Humanos das Agências Reguladoras).
+11|Lei nº 10.871/2004 e alterações posteriores (Criação de Carreiras e Organização de Cargos Efetivos das Autarquias Especiais denominadas Agências Reguladoras).
+12|Lei nº 9.784/1999 – (processo administrativo no âmbito da Administração Pública).
+
+LEGISLAÇÕES|ESPECÍFICAS: 
+1|Lei nº 8.080/1990 (Lei Orgânica da Saúde).
+2|Lei nº 9.782/1999 (Define o Sistema Nacional de Vigilância Sanitária, cria a Agência Nacional de Vigilância Sanitária).
+3|Decreto nº 3.029/1999 (Aprova o regulamento da Agência Nacional de Vigilância Sanitária (ANVISA) e dá outras providências).
+4|Lei nº 6.360/1976 (Lei de Vigilância Sobre Produtos Farmacêuticos.
+5|Lei nº 6.437/1977 (Lei de Infrações à Legislação Sanitária).
+
+
